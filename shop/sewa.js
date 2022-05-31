@@ -6,7 +6,7 @@ return `「 *PRICE LIST* 」
 ⬡ 1 MINGGU = Rp 5.000
 ⬡ 2 MINGGU = Rp 8.000
 ⬡ 3 MINGGU = Rp 10.000
-⬡ 1 BULAN = Rp 15.000
+⬡ 1 BULAN = Rp 20.000
 ⬡ PERMANEN = Rp 100.000
 ⬡ PERMANEN + USER PREM = Rp 150.000
 
@@ -17,7 +17,7 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6285850539404
 
 
 NOTE : 
